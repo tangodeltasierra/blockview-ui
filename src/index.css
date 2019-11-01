@@ -1,0 +1,6 @@
+.clickable{
+    cursor: pointer;
+}
+.list{
+    overflow-y: auto;
+}
